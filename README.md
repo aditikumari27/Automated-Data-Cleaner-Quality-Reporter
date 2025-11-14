@@ -1,5 +1,3 @@
-<img width="1344" height="557" alt="image" src="https://github.com/user-attachments/assets/6431bdc7-852d-4b7d-ac1d-920f71828cc6" />
-
 ## Setup (VS Code)
 
 1. Open this folder in VS Code.
@@ -36,6 +34,10 @@
 
 ## How it maps to learning topics
 See README in project for details of where each Python topic is used.
+
+<img width="800" height="500" alt="image" src="https://github.com/user-attachments/assets/3e2e5cc9-69ef-4633-a6dc-e801405345ab" /> 
+<img width="800" height="500" alt="image" src="https://github.com/user-attachments/assets/6431bdc7-852d-4b7d-ac1d-920f71828cc6" />
+
 
 
 
