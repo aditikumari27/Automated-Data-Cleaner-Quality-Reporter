@@ -1,4 +1,3 @@
-<img width="793" height="1122" alt="image" src="https://github.com/user-attachments/assets/99a9bb6c-f5fe-4bce-9697-34e3e133ad9c" /># Automated Data Cleaner & Quality Reporter
 
 ## Setup (VS Code)
 
@@ -36,6 +35,7 @@
 
 ## How it maps to learning topics
 See README in project for details of where each Python topic is used.
+
 
 
 
