@@ -1,0 +1,14 @@
+data_cleaner_web/
+├── app.py                      # Flask app (entry point)
+├── cleaner.py                  # Data cleaning logic (core module)
+├── utils.py                    # Small helpers (filename safe, scoring)
+├── requirements.txt            # Python deps
+├── README.md
+├── sample_data.csv             # (optional) small test dataset
+├── templates/
+│   └── index.html              # HTML upload page
+└── static/
+    ├── style.css
+    └── script.js
+└── uploads/                     # created at runtime (uploaded csv)
+└── outputs/                     # cleaned csv + report outputs (created at runtime)
