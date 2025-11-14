@@ -37,7 +37,9 @@
 ## How it maps to learning topics
 See README in project for details of where each Python topic is used.
 
-<img width="1692" height="775" alt="image" src="https://github.com/user-attachments/assets/e3795177-d216-4717-90fe-a9084388d1ee" />
+
+
+
 
 
 
