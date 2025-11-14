@@ -1,3 +1,4 @@
+<img width="1344" height="557" alt="image" src="https://github.com/user-attachments/assets/6431bdc7-852d-4b7d-ac1d-920f71828cc6" />
 
 ## Setup (VS Code)
 
@@ -35,6 +36,7 @@
 
 ## How it maps to learning topics
 See README in project for details of where each Python topic is used.
+
 
 
 
